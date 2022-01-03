@@ -8,7 +8,7 @@
 </br>
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apollo272966&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apollo27296&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Apollo27296/Apollo27296 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
