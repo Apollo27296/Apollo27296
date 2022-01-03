@@ -6,7 +6,7 @@
 - 
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apollo27296&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apollo27296)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apollo272966&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Apollo27296/Apollo27296 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
