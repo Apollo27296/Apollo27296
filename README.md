@@ -5,7 +5,7 @@
 - 📫 How to reach me :- https://www.linkedin.com/in/ayush-ghosh-816b08171
 - 
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apollo27296&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apollo27296)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
